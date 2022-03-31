@@ -8,7 +8,7 @@ Continue and finish the Javascript part of the form.
 
 
 Home page:
-<img src='https://github.com/Alex6dev/AlexandreSix_2_04052021/blob/master/photo/screens/screenReserviaHome.png' alt="screenshot"/>
+<img src='https://github.com/Alex6dev/AlexandreSix_4_30062021/blob/master/screens/screenHome.png' alt="screenshot"/>
 
 Figma: [link to model](https://www.figma.com/file/B7NKBDvSI18uoMLJgpnh48/UI-Design-GameOn-FR?node-id=106%3A630)
 
